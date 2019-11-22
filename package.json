@@ -1,0 +1,23 @@
+{
+  "name": "deep-js-foundations",
+  "version": "1.0.0",
+  "description": "For FrontendMasters course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JacekDwojakPL/deep-js-foundations.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JacekDwojakPL/deep-js-foundations/issues"
+  },
+  "homepage": "https://github.com/JacekDwojakPL/deep-js-foundations#readme",
+  "devDependencies": {
+    "eslint": "^6.6.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}
