@@ -18,6 +18,7 @@
   "homepage": "https://github.com/JacekDwojakPL/deep-js-foundations#readme",
   "devDependencies": {
     "eslint": "^6.6.0",
-    "eslint-config-google": "^0.14.0"
+    "eslint-config-google": "^0.14.0",
+    "jsdoc": "^3.6.3"
   }
 }
